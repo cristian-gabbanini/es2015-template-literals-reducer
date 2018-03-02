@@ -1,0 +1,10 @@
+{
+  "name": "es2015-template-literals-reducer",
+  "version": "0.0.1",
+  "description": "Babel plugin to remove unwanted empty spaces from template literals assigments",
+  "main": "es2015-template-literals-reducer.js",
+  "repository": "https://github.com/cristian-gabbanini/es2015-template-literals-reducer.git",
+  "author": "Cristian Gabbanini",
+  "license": "MIT",
+  "private": false
+}
